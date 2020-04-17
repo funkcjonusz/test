@@ -2,7 +2,7 @@ package gradleproject1;
 
 /**
  *
- * @author mwojtkowski1
+ * @author mwojtkowski1 zmiany tutaj
  */
 public class Main {
 
